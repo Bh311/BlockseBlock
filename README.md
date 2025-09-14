@@ -24,9 +24,20 @@ The goal is to create **data visualizations** using Seaborn and Matplotlib to id
 4. **Sepal Width by Species** – Violin plot comparing distributions.  
 5. **Pairplot** – Pairwise scatter plots colored by species (clear clustering).  
 
-📸 *Add screenshots of your graphs here*.
+### 1. Distribution of Sepal Length
+![Sepal Length Distribution](images/Histogram.png)
 
----
+### 2. Average Sepal Length by Species
+![Average Sepal Length](images/Bar Plot.png)
+
+### 3. Petal Length Distribution by Species
+![Petal Length Distribution](images/Box plot.png)
+
+### 4. Sepal Width by Species
+![Sepal Width Distribution](images/Violin Plot.png)
+
+### 5. Pairplot of All Features
+![Pairplot](images/Pair Plot.png)
 
 ## 🔍 Insights
 - **Setosa** flowers have distinctly smaller petals compared to other species.  
