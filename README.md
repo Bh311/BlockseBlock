@@ -28,16 +28,16 @@ The goal is to create **data visualizations** using Seaborn and Matplotlib to id
 ![Sepal Length Distribution](images/Histogram.png)
 
 ### 2. Average Sepal Length by Species
-![Average Sepal Length](images/Bar Plot.png)
+![Average Sepal Length](images/Barplot.png)
 
 ### 3. Petal Length Distribution by Species
-![Petal Length Distribution](images/Box plot.png)
+![Petal Length Distribution](images/Boxplot.png)
 
 ### 4. Sepal Width by Species
-![Sepal Width Distribution](images/Violin Plot.png)
+![Sepal Width Distribution](images/Violinplot.png)
 
 ### 5. Pairplot of All Features
-![Pairplot](images/Pair Plot.png)
+![Pairplot](images/Pairplot.png)
 
 ## 🔍 Insights
 - **Setosa** flowers have distinctly smaller petals compared to other species.  
